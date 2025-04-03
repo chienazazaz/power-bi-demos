@@ -6,4 +6,5 @@ This report aim to reflex the current state of supplychain for retail biz
 - Inventory days outstanding
 - Return rate
 - Internal product transfer
-![Demo](https://www.loom.com/share/e97455893b7b4613b47bebad97e675cd?sid=784548d8-97f6-4c33-904c-0632866245c4)
+
+[![Demo](supply_chain_funnel.jpg)](https://www.loom.com/share/e97455893b7b4613b47bebad97e675cd?sid=784548d8-97f6-4c33-904c-0632866245c4)
