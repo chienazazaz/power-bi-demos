@@ -7,4 +7,4 @@ This report aim to reflex the current state of supplychain for retail biz
 - Return rate
 - Internal product transfer
 
-[![Demo](supply_chain_funnel.jpg)](https://www.loom.com/share/e97455893b7b4613b47bebad97e675cd?sid=784548d8-97f6-4c33-904c-0632866245c4)
+![Demos](https://cdn.loom.com/sessions/thumbnails/e97455893b7b4613b47bebad97e675cd-8e91980f5e46b9e1-full-play.gif)
